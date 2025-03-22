@@ -4,8 +4,8 @@ Je suis un développeur passionné par le JavaScript et Python pour le moment. J
 
 ## 🛠️ Compétences techniques
 - **Langages** : JavaScript, Python
-- **Frameworks** : Node.js
-- **Bases de données** : MySQL, MongoDB
+- **Frameworks** : Loading ...
+- **Bases de données** : Loading ...
 - **Outils** : Git, VSCode
 
 <!---
@@ -18,7 +18,7 @@ Je contribue à des projets comme [React](https://github.com/facebook/react), en
 
 ## 🚀 Actuellement j'apprends
 - NodeJs
-- Django 
+- Loading ...
   
 
 ## 📫 Me contacter
