@@ -1,58 +1,55 @@
-# 👋 Salut, moi c'est Christian
+# 👋 Hi, I'm Chris 
 
-🎯 Développeur passionné par **JavaScript** & **Python**, j’adore construire des projets web modernes et apprendre en continu.
-
----
-
-## 🛠️ Compétences Techniques
-
-- **Langages** :  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-
-- **En cours d’apprentissage** :  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-
-- **Outils & Environnement** :  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
-  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)
+🎯 Passionate about **development** and building modern solutions, I enjoy tackling technical challenges and continuously learning.  
 
 ---
 
-## 🚀 En ce moment, j’apprends
+## 🛠️ Technical Skills  
 
-- Développement Back-end avec **Node.js**
-- APIs REST & gestion des bases de données
-- Structure MVC et bonnes pratiques de code
+- **Languages**: JavaScript, Python, Java, Kotlin, C++, PHP  
+- **Back-end**: Node.js, Express.js, MySQL, Laravel  
+- **Mobile**: Android (Kotlin), React Native  
+- **Tools**: Git, GitHub, VS Code, Android Studio, MySQL Workbench  
 
 ---
 
-## 📊 Statistiques GitHub
+## 💡 What I Can Do  
+
+- Build modern web applications using **JavaScript**, **Node.js**, **PHP**, and **Python**  
+- Manage and structure **databases** with MySQL  
+- Apply **MVC architecture** and write clean, maintainable code  
+- Develop **Android apps** with Kotlin in Android Studio  
+- Create **cross-platform mobile apps** with React Native  
+- Work with **Git/GitHub** for version control and team collaboration  
+- Build **desktop and backend systems** such as stock management applications  
+
+---
+
+## 🚀 What I’m Currently Learning  
+
+- Advanced back-end development with **PHP**  
+- Database optimization with **MySQL**  
+- Mobile app development with **React Native**  
+
+---
+
+## 📊 GitHub Stats  
 
 <div align="center">
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-mayamba&show_icons=true&theme=tokyonight&hide_title=true&hide=stars)
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-mayamba&show_icons=true&theme=tokyonight&hide_title=true&hide=stars)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=chris-mayamba&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=chris-mayamba&theme=tokyonight&hide_border=false)  
 
-
-
-</div>
+</div>  
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me  
 
-- 📧 **Email** : [christianmayamba04@gmail.com](mailto:christianmayamba04@gmail.com)  
-- 💼 **LinkedIn** : [Christian Mayamba](https://www.linkedin.com/in/christian-mayamba-54051828b)
+- 📧 **Email**: [christianmayamba04@gmail.com](mailto:christianmayamba04@gmail.com)  
+- 💼 **LinkedIn**: [Christian Mayamba](https://www.linkedin.com/in/christian-mayamba-54051828b)  
 
 ---
 
-> _"Le seul moyen de faire du bon travail est d'aimer ce que vous faites."_ — **Steve Jobs**
-
-<!---
-chris-mayamba/chris-mayamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> _"The only way to do great work is to love what you do."_ — **Steve Jobs**  
