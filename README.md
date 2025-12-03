@@ -7,7 +7,7 @@
 ## 🛠️ Technical Skills  
 
 - **Languages**: JavaScript, Python, Java, Kotlin, PHP  
-- **Back-end**: Node.js, Express.js, MySQL,  
+- **Back-end**: Node.js, Express.js
 - **Mobile**: Android (Kotlin), React Native  
 - **Tools**: Git, GitHub, VS Code, Android Studio, MySQL Workbench  
 
@@ -16,7 +16,6 @@
 ## 💡 What I Can Do  
 
 - Build modern web applications using **JavaScript**, **Node.js**, and **PHP**
-- Manage and structure **databases** with MySQL  
 - Apply **MVC architecture** and write clean, maintainable code  
 - Develop **Android apps** with Kotlin in Android Studio  
 - Create **cross-platform mobile apps** with React Native  
