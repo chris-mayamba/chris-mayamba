@@ -17,7 +17,6 @@
 
 - Build modern web applications using **JavaScript**, **Node.js**, and **PHP**
 - Apply **MVC architecture** and write clean, maintainable code  
-- Develop **Android apps** with Kotlin in Android Studio  
 - Create **cross-platform mobile apps** with React Native  
 - Work with **Git/GitHub** for version control and team collaboration    
 
