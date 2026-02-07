@@ -33,9 +33,9 @@
 
 <div align="center">
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-mayamba&show_icons=true&theme=tokyonight&hide_title=true&hide=stars)  
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-mayamba&show_icons=true&theme=tokyonight&hide_title=true&hide=stars&cache_seconds=86400)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=chris-mayamba&theme=tokyonight&hide_border=false)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=chris-mayamba&theme=tokyonight)  
 
 </div>  
 
